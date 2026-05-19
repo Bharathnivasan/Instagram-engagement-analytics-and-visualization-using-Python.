@@ -85,7 +85,7 @@ instagram-engagement-analysis/
 
 ## WordCloud Visualization
 
-![WordCloud](instagram_wordcloud.png)
+![WordCloud](graph_4.png)
 
 The WordCloud highlights the most frequently occurring hashtags and keywords associated with engagement activity.
 
