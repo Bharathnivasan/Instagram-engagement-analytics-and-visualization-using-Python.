@@ -1,7 +1,7 @@
 
 # Instagram Engagement Analysis
 
-![Banner](screenshot_1.png)
+![Banner]https://github.com/Bharathnivasan/Instagram-engagement-analytics-and-visualization-using-Python./blob/main/screenshot_1.png
 
 A comprehensive Instagram analytics and Social Network Analysis (SNA) project focused on engagement trends, hashtag interactions, and visual insight generation using Python.
 
