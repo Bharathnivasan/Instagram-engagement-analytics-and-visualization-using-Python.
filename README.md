@@ -1,7 +1,7 @@
 
 # Instagram Engagement Analysis
 
-![Banner]https://github.com/Bharathnivasan/Instagram-engagement-analytics-and-visualization-using-Python./blob/main/screenshot_1.png
+![Banner]
 
 A comprehensive Instagram analytics and Social Network Analysis (SNA) project focused on engagement trends, hashtag interactions, and visual insight generation using Python.
 
@@ -93,7 +93,7 @@ The WordCloud highlights the most frequently occurring hashtags and keywords ass
 
 ## Network Graph Analysis
 
-![Graph](visualizations/graphs/graph_2.png)
+![Graph](graph_2.png)
 
 The network graph visualizes relationships between hashtags and interaction clusters within the Instagram engagement ecosystem.
 
