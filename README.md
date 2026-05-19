@@ -1,7 +1,7 @@
 
 # Instagram Engagement Analysis
 
-![Banner](Instagram.png)
+![Banner](Instagram Engagement Analytics.png)
 
 A comprehensive Instagram analytics and Social Network Analysis (SNA) project focused on engagement trends, hashtag interactions, and visual insight generation using Python.
 
